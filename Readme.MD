@@ -1,6 +1,8 @@
+##Forecast.io / Google Maps Geocoding API 
+
 forecastio-googlemaps is an API to forecast.io and Google Maps API.
 
---Usage
+###Usage
 
 ```
 var forecast = require("./forecastgooglemaps");
