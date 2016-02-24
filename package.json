@@ -1,0 +1,12 @@
+{
+  "name": "forecastio-googlemaps",
+  "version": "1.0.1",
+  "description": "An app that runs in the command line gathering data from Google Maps Geocoding API and feeds it into Forecast.io API to get weather information on a city.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "Cihan Koseoglu <cihan@cihankoseoglu.com>",
+  "license": "ISC"
+}
